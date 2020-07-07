@@ -8,4 +8,3 @@ A Simple Burger Details Page UI Made In Flutter.
 
 ## Made By Steven Mathew
 
-## COPYRIGHT - NONE 
