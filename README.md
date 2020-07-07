@@ -4,4 +4,4 @@ A Simple Burger Details Page UI Made In Flutter.
 
 ## Screen Shot
 
-<img src="https://sjmodelagency.com/app/appimg/flutter1.png" height="200px">
+<img src="https://sjmodelagency.com/app/appimg/flutter1.png" height="500px">
